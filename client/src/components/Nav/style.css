@@ -1,0 +1,9 @@
+.navbar {
+    background-color:#343A40;
+    margin-bottom: 10px;
+    color:goldenrod; 
+}
+
+#navigation * {
+    color:goldenrod; 
+  }
