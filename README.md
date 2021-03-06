@@ -37,3 +37,7 @@ I contributed to this with help from react documentation and google books api do
 no questions.
 ## genius-pending | shivey_khangura@hotmail.com
 ## ![img](https://avatars.githubusercontent.com/u/67982777?v=4)
+
+![screenshot1](https://user-images.githubusercontent.com/67982777/110216364-b8800280-7ea6-11eb-9b2c-99ec98bb581f.png)
+
+![screenshot2](https://user-images.githubusercontent.com/67982777/110216367-bcac2000-7ea6-11eb-87e3-2e4f3a6b7b94.png)
